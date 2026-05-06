@@ -1,5 +1,6 @@
 venv/
-*.pt
+data/
 runs/
 __pycache__/
-.DS_Store
+.vscode/
+*.pt
