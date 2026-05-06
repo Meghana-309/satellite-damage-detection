@@ -14,3 +14,8 @@ An automated system to identify structural damage in satellites and track orbita
 2. Create venv: `python -m venv venv`
 3. Activate: `.\venv\Scripts\activate`
 4. Install: `pip install ultralytics opencv-python pandas matplotlib`
+
+## Project Progress - Day 3
+- **Status:** Model Training Complete ✅
+- **Accuracy (mAP50):** 0.971 (97%)
+- **Performance:** Successfully detecting debris in satellite imagery using YOLOv8.
