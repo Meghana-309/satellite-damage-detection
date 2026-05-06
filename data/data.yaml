@@ -1,0 +1,13 @@
+train: data/train/images
+val: data/valid/images
+test: data/test/images
+
+nc: 1
+names: ['debris'] # Or 'satellite', check your file for the name
+
+roboflow:
+  workspace: space-debrisw
+  project: space-debris-1
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/space-debrisw/space-debris-1/dataset/2
