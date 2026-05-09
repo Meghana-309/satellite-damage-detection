@@ -1,4 +1,4 @@
-# Satellite  Space Debris Detection
+# Satellite and Space Debris Detection
 
 An automated system to identify structural damage in satellites and track orbital debris using YOLOv8 and Computer Vision.
 
