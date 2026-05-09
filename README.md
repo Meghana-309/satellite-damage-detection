@@ -6,7 +6,7 @@ An automated system to identify structural damage in satellites and track orbita
 - [x] Phase 1: Environment Setup ✅
 - [x] Phase 2: Data Collection & Labeling ✅
 - [x] Phase 3: Model Training ✅
-- [ ] Phase 4: Tracking & Collision Logic
+- [x] Phase 4: Tracking & Collision Logic
 - [ ] Phase 5: Dashboard Deployment
 
 ## Setup Instructions
