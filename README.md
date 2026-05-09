@@ -31,6 +31,7 @@ An automated system to identify structural damage in satellites and track orbita
 - **Status:** Complete ✅
 - **Results:** Achieved a **mAP50 of 0.971 (97%)** after 25 epochs.
 - **Validation:** Successfully ran `predict.py` on test images, identifying debris with high confidence.
+
 ## 🛰️ Day 6 & 7: Orbital Tracking & Collision Prediction
 
 ### **Overview**
